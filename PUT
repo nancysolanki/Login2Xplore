@@ -1,0 +1,23 @@
+{
+    "token": "90937130|-31948799569084278|90931304",
+    "cmd": "PUT",
+    "dbName": "Employee",
+    "rel": "index",
+    "colsAutoIndex": true,
+    "templateStr": {
+        "name": "neha pandey"
+    },
+    "jsonStr": {
+        "name": "neha pandey",
+        "email": "neha@gmail.com",
+        "password": "89833",
+        "year": "2000"
+       "name": "nancy",
+        "email": "nancy56@gmail.com",
+        "password": "89833",
+        "year": "2000"
+      
+
+    }
+}
+     
